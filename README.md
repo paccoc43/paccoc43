@@ -3,7 +3,7 @@
 <h3 align="center">Desarrollador FullStack · Conocimiento avanzado en agentes de IA</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Center+Developer+en+NTTData;Explorando+el+mundo+de+la+IA+%F0%9F%A4%96;Aprendiendo+nuevas+tecnolog%C3%ADas+sin+parar;Amante+de+la+naturaleza+%F0%9F%8C%B2+y+los+videojuegos+%F0%9F%8E%AE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&size=28&pause=1000&color=F7A551&center=true&vCenter=true&width=600&lines=Center+Developer+en+NTT+Data;Explorando+el+mundo+de+la+IA+%F0%9F%A4%96;Aprendiendo+nuevas+tecnolog%C3%ADas+sin+parar;Amante+de+la+naturaleza+%F0%9F%8C%B2+y+los+videojuegos+%F0%9F%8E%AE" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 ### 🛠️ Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,git,github,docker,vscode,figma" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,angular,react,nodejs,html,css,md,python,cpp,git,github,gitlab,mysql,postgres,docker,vscode,idea,blender,obsidian,postman" alt="Skills" />
 </p>
 
 <p align="center">
